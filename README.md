@@ -37,6 +37,5 @@ This is an Android application that allows users to convert currencies in real-t
 
 ## Author Information
 
-Iftekhar Shahil
-2021wa86804
+Iftekhar Shahil_2021wa86804
 
